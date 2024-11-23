@@ -12,7 +12,7 @@ After ensuring my data’s accuracy and consistency, I began the process of crea
 ![Data Model](https://github.com/Sharath2903/Power_BI_AdventureWorks_Analysis/blob/main/data_model.PNG)
 
 ## DAX Functions
-Now that I had established my table relationships, I could begin utilizing some DAX functions to analyze the data set. I started by creating basic KPI’s such as Revenue, Profit, and Total Orders which would help me to calculate more advanced metrics later on. Some of the DAX functions I used the most include:
+**Now that I had established my table relationships, I could begin utilizing some DAX functions to analyze the data set. I started by creating basic KPI’s such as Revenue, Profit, and Total Orders which would help me to calculate more advanced metrics later on. Some of the DAX functions I used the most include:**
 
 ITERATOR FUNCTIONS (SUMX): These are formulas which evaluate an expression based on each row and then aggregate the results.
 -CALCULATE(): acts as an overriding filter to give you a new filter context. Was incredibly useful for establishing Previous Months Orders, Revenue, Profit, 

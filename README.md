@@ -45,6 +45,7 @@ Home to company wide KPI’s, Trending Revenue, Orders as well as several lists 
 - This concludes the performance analysis for AdventureWorks. Further exploration into customer feedback and competitive benchmarks could provide deeper insights into sustaining growth and minimizing returns.
 
 **2. Regional Sales Performance Report**
+
 This report provides a geographic overview of sales performance across key regions: Europe, North America, and the Pacific. It highlights country-level contributions and provides insights into regional segmentation using a map-based visualization.
 
 ![map_dashboard](https://github.com/Sharath2903/Power_BI_AdventureWorks_Analysis/blob/main/Map_dashboard.PNG)

@@ -29,15 +29,17 @@ A total of 3 visualization pages were created for this report, these include:
 
 ![Sales Dashboard](https://github.com/Sharath2903/Power_BI_AdventureWorks_Analysis/blob/main/sales_perfomance.PNG)
 
-AdventureWorks achieved $24.9M in revenue, $10.5M in profit, and processed 25.2K orders with a 2.2% return rate. Revenue trends show consistent growth, peaking at $1.83M in January 2022, with Accessories leading in orders (17.0K). Top products include the Water Bottle and Mountain Tire Tube, while Sport-100 Helmets have higher return rates (3.3%). 
+- AdventureWorks achieved $24.9M in revenue, $10.5M in profit, and processed 25.2K orders with a 2.2% return rate. 
+- Revenue trends show consistent growth, peaking at $1.83M in January 2022, with Accessories leading in orders (17.0K).
+- Top products include the Water Bottle and Mountain Tire Tube, while Sport-100 Helmets have higher return rates (3.3%). 
 
-# Key Takeaways
-1.Tires and Tubes are the most popular product type, both in sales and returns.
-2.Strong growth trends are evident, particularly in the Accessories category.
-3.Products with high return rates (e.g., Sport-100 helmets) should be investigated for potential quality improvements.
+**Key Takeaways**
+- 1.Tires and Tubes are the most popular product type, both in sales and returns.
+- 2.Strong growth trends are evident, particularly in the Accessories category.
+- 3.Products with high return rates (e.g., Sport-100 helmets) should be investigated for potential quality improvements.
 
-# Recommendations:
-1.Focus on maintaining the growth momentum in Accessories and Bikes.
-2.Investigate the reasons behind higher return rates for helmets.
-3.Leverage the popularity of tires and tubes with targeted marketing campaigns.
-4.This concludes the performance analysis for AdventureWorks. Further exploration into customer feedback and competitive benchmarks could provide deeper insights into sustaining growth and minimizing returns.
+**Recommendations:**
+- 1.Focus on maintaining the growth momentum in Accessories and Bikes.
+- 2.Investigate the reasons behind higher return rates for helmets.
+- 3.Leverage the popularity of tires and tubes with targeted marketing campaigns.
+- 4.This concludes the performance analysis for AdventureWorks. Further exploration into customer feedback and competitive benchmarks could provide deeper insights into sustaining growth and minimizing returns.

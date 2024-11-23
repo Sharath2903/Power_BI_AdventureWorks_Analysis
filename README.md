@@ -15,10 +15,12 @@ After ensuring my data’s accuracy and consistency, I began the process of crea
 Now that I had established my table relationships, I could begin utilizing some DAX functions to analyze the data set. I started by creating basic KPI’s such as Revenue, Profit, and Total Orders which would help me to calculate more advanced metrics later on. Some of the DAX functions I used the most include:
 
 ITERATOR FUNCTIONS (SUMX): These are formulas which evaluate an expression based on each row and then aggregate the results.
-CALCULATE(): acts as an overriding filter to give you a new filter context. Was incredibly useful for establishing Previous Months Orders, Revenue, Profit, Returns and Overall Average Price
-RELATED(): This function allows you to pull data from different tables as long as there is an established many to one relationship.
-Date Functions(DateAdd, DATESINPERIOD): These date functions were very helpful when establishing a 90 Day Rolling Profit as well as the Previous Months Order, Profit, Revenue and Returns.
-The measures which were created for this project were placed into their own specific Measure Table.
+-CALCULATE(): acts as an overriding filter to give you a new filter context. Was incredibly useful for establishing Previous Months Orders, Revenue, Profit, 
+ Returns and Overall Average Price
+-RELATED(): This function allows you to pull data from different tables as long as there is an established many to one relationship.
+-Date Functions(DateAdd, DATESINPERIOD): These date functions were very helpful when establishing a 90 Day Rolling Profit as well as the Previous Months Order, 
+ Profit, Revenue and Returns.
+-The measures which were created for this project were placed into their own specific Measure Table.
 
 ## Data Visualization
 A total of 3 visualization pages were created for this report, these include:

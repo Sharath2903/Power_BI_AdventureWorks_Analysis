@@ -25,7 +25,8 @@ After ensuring my data’s accuracy and consistency, I began the process of crea
 ## Data Visualization
 A total of 3 visualization pages were created for this report, these include:
 
-1. **Sales Dashboard:** Home to company wide KPI’s, Trending Revenue, Orders as well as several lists of the top selling products.
+**1. Sales Dashboard** 
+Home to company wide KPI’s, Trending Revenue, Orders as well as several lists of the top selling products.
 
 ![Sales Dashboard](https://github.com/Sharath2903/Power_BI_AdventureWorks_Analysis/blob/main/sales_perfomance.PNG)
 
@@ -38,7 +39,49 @@ A total of 3 visualization pages were created for this report, these include:
 - Products with high return rates (e.g., Sport-100 helmets) should be investigated for potential quality improvements.
 
 **Recommendations:**
-- 1.Focus on maintaining the growth momentum in Accessories and Bikes.
-- 2.Investigate the reasons behind higher return rates for helmets.
-- 3.Leverage the popularity of tires and tubes with targeted marketing campaigns.
-- 4.This concludes the performance analysis for AdventureWorks. Further exploration into customer feedback and competitive benchmarks could provide deeper insights into sustaining growth and minimizing returns.
+- Focus on maintaining the growth momentum in Accessories and Bikes.
+- Investigate the reasons behind higher return rates for helmets.
+- Leverage the popularity of tires and tubes with targeted marketing campaigns.
+- This concludes the performance analysis for AdventureWorks. Further exploration into customer feedback and competitive benchmarks could provide deeper insights into sustaining growth and minimizing returns.
+
+**2. Regional Sales Performance Report**
+This report provides a geographic overview of sales performance across key regions: Europe, North America, and the Pacific. It highlights country-level contributions and provides insights into regional segmentation using a map-based visualization.
+
+![map_dashboard](https://github.com/Sharath2903/Power_BI_AdventureWorks_Analysis/blob/main/Map_dashboard.PNG)
+**Key Takeaways:**
+- North America demonstrates the highest contribution overall, particularly led by the United States.
+- Europe shows consistent performance with multiple countries contributing evenly.
+- The Pacific region, though represented solely by Australia, shows a notable contribution.
+
+**Recommendations:**
+- Expand in North America: Focus on strengthening operations and marketing in the U.S. while exploring growth opportunities in Canada.
+- Leverage European Diversity: Utilize balanced contributions from key countries like the U.K., France, and Germany to drive regional growth through localized 
+  strategies.
+- Grow in the Pacific: Investigate additional market opportunities to complement Australia's strong performance in the region.
+
+**3. Customer Insights**
+
+  This dashboard provides an insightful overview of customer performance metrics, focusing on unique customers, revenue per customer, and customer segmentation 
+  based on income and occupation. Below is a detailed analysis:
+
+![customer_detail](https://github.com/Sharath2903/Power_BI_AdventureWorks_Analysis/blob/main/customer_dashboard.PNG)
+
+**Key Takeaways:**
+
+- The business engaged 17.4K unique customers, generating a Average revenue per customer of $1.431K over the period (2020–2022).
+- Revenue per customer experienced a decline from early 2020, with recovery trends visible in 2022.
+- Customers in the high-income group accounted for nearly 47% of total orders, demonstrating significant purchasing power.
+- Occupation data shows 43.41% of total orders coming from a dominant group, making them a key demographic for targeted marketing efforts.
+
+**Recommendations:**
+
+- Strengthen High-Income Segment: Prioritize marketing and premium offerings for high-income customers to maximize revenue potential.
+- Boost Top Customers’ Engagement: Introduce loyalty programs or exclusive benefits for high-order customers to reinforce retention and drive repeat business.
+- Address Revenue Decline: Investigate causes of the revenue drop between mid-2020 and 2021 and implement strategies like promotions or product innovations to 
+  sustain growth.
+- Leverage Occupation-Based Data: Design occupation-specific campaigns targeting the largest demographic to increase engagement and sales.
+  Monitor Revenue Recovery: Continue tracking revenue per customer to ensure sustained improvement and adjust strategies as needed.
+
+
+
+

@@ -26,6 +26,7 @@ After ensuring my data’s accuracy and consistency, I began the process of crea
 A total of 3 visualization pages were created for this report, these include:
 
 **1. Sales Dashboard** 
+
 Home to company wide KPI’s, Trending Revenue, Orders as well as several lists of the top selling products.
 
 ![Sales Dashboard](https://github.com/Sharath2903/Power_BI_AdventureWorks_Analysis/blob/main/sales_perfomance.PNG)

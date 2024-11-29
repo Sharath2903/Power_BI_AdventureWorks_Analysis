@@ -45,7 +45,7 @@ Home to company wide KPI’s, Trending Revenue, Orders as well as several lists 
 - Leverage the popularity of tires and tubes with targeted marketing campaigns.
 - This concludes the performance analysis for AdventureWorks. Further exploration into customer feedback and competitive benchmarks could provide deeper insights into sustaining growth and minimizing returns.
 
-**2. Regional Sales Performance Report**
+### 2. Regional Sales Performance Report
 
 This report provides a geographic overview of sales performance across key regions: Europe, North America, and the Pacific. It highlights country-level contributions and provides insights into regional segmentation using a map-based visualization.
 
@@ -61,7 +61,7 @@ This report provides a geographic overview of sales performance across key regio
   strategies.
 - Grow in the Pacific: Investigate additional market opportunities to complement Australia's strong performance in the region.
 
-**3. Customer Insights**
+  ### 3. Customer Insights
 
   This dashboard provides an insightful overview of customer performance metrics, focusing on unique customers, revenue per customer, and customer segmentation 
   based on income and occupation. Below is a detailed analysis:

@@ -68,14 +68,14 @@ This report provides a geographic overview of sales performance across key regio
 
 ![customer_detail](https://github.com/Sharath2903/Power_BI_AdventureWorks_Analysis/blob/main/customer_dashboard.PNG)
 
-**Key Takeaways:**
+## Key Takeaways:
 
 - The business engaged 17.4K unique customers, generating a Average revenue per customer of $1.431K over the period (2020–2022).
 - Revenue per customer experienced a decline from early 2020, with recovery trends visible in 2022.
 - Customers in the high-income group accounted for nearly 47% of total orders, demonstrating significant purchasing power.
 - Occupation data shows 43.41% of total orders coming from a dominant group, making them a key demographic for targeted marketing efforts.
 
-**Recommendations:**
+## Recommendations:
 
 - Strengthen High-Income Segment: Prioritize marketing and premium offerings for high-income customers to maximize revenue potential.
 - Boost Top Customers’ Engagement: Introduce loyalty programs or exclusive benefits for high-order customers to reinforce retention and drive repeat business.
